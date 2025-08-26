@@ -1,0 +1,16 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "A simple todo list webpage",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Open index.html in your browser\"",
+    "test": "echo \"No tests yet\"",
+    "dev": "live-server"
+  },
+  "author": "Bahar Sepahvand",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
